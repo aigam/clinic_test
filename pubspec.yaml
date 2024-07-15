@@ -15,7 +15,7 @@ dependencies:
   dio: ^4.0.0
   flutter_dotenv: ^5.0.0
   mask_text_input_formatter: ^2.1.0
-  easy_mask: ^2.0.1it 
+  easy_mask: ^2.0.1
   persistent_bottom_nav_bar: ^4.0.2
   carousel_slider: ^4.1.1
   sliding_up_panel: ^2.0.0+1
